@@ -21,7 +21,7 @@ export default function Sidebar(props: SidebarProps) {
 
   return (
     <Grid item xs={12} md={2.5}>
-      <Paper component="img" sx={{ maxWidth: "100%", boxShadow: 3 }} alt='44' src='/44.png' />
+      <Paper component="img" sx={{ maxWidth: "100%", boxShadow: 3 }} alt='profile' src='/profile.png' />
       <Paper elevation={0} sx={{ mt: 1, p: 2, bgcolor: 'grey.200' }}>
         <Typography variant="h6" gutterBottom>
           {title}
