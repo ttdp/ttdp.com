@@ -36,10 +36,6 @@ function Copyright() {
     <Typography variant="body2" color="text.secondary" align="center">
       {'Copyright © TTDP '}
       {new Date().getFullYear()}
-      {' '}
-      <Link color="inherit" href="https://beian.miit.gov.cn/">
-        沪ICP备2023033509号
-      </Link>
     </Typography>
   );
 }

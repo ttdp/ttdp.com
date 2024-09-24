@@ -9,7 +9,7 @@ import Sidebar from './Sidebar';
 import Footer from './Footer';
 
 const sidebar = {
-  title: 'My name is Tian Tong',
+  title: 'My name is TIAN TONG',
   description:
     'I share my learning here.',
   archives: [
