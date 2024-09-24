@@ -12,7 +12,7 @@ export default function Header(props: HeaderProps) {
   return (
     <React.Fragment>
       <Toolbar sx={{ borderBottom: 1, borderColor: 'divider' }}>
-        <Typography component="h2" variant="h5" color="inherit" align="center" noWrap sx={{ flex: 1 }}>
+        <Typography component="h2" variant="h5" color="inherit" align="center" noWrap sx={{ flex: 1, fontWeight: 'medium' }}>
           {title}
         </Typography>
       </Toolbar>

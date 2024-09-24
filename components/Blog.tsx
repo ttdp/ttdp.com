@@ -9,9 +9,9 @@ import Sidebar from './Sidebar';
 import Footer from './Footer';
 
 const sidebar = {
-  title: 'My name is TIAN TONG',
+  title: 'I\'m TIAN TONG',
   description:
-    'I share my learning here.',
+    'Jump into crypto world.',
   archives: [
     { title: 'November 2023', url: '#' },
   ],

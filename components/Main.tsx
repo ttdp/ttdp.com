@@ -10,7 +10,7 @@ export default function Main(props: MainProps) {
   const { title } = props;
 
   return (
-    <Grid item xs={12} md={9} sx={{ mt: -4 }} >
+    <Grid item xs={12} md={9.5} sx={{ mt: -4 }} >
       <Post_20231130 />
       <Divider />
     </Grid>
